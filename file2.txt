@@ -1,1 +1,9 @@
 in test2
+adding new linw for checking
+after adding ssh
+ayush thakre
+third line
+ammending
+before amend
+after ammend
+before stash
